@@ -19,7 +19,7 @@ body {
 /* ここから */
 header {
   height:80px;
-  background-color:black;
+  background-color:#343434;
   /* position:fixed; */
   width:100%
 
@@ -107,7 +107,7 @@ h1,p .about{
 /* ここまでがfunction部分の実装 */
 footer {
 /* footer部分の実装 */
-  background-color:#4D4D4D;
+  background-color:#2c3c4c;
   color:white;
   height: 75px;
   width:100%;
